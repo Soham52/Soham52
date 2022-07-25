@@ -1,4 +1,4 @@
-### Hi there 👋 ¯\_(ツ)_/¯
+### Hi there 👋 ¯\\_(ツ)_/¯
 
 <!--
 **Soham52/Soham52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

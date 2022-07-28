@@ -17,5 +17,4 @@ A Programming and Coding Enthusiast who also likes Gaming  there again ;)
 # Contributions
 
 *it ain't much but it's honest work :)* 
-
 ![Snake animation](https://github.com/Soham52/Soham52/blob/output/github-contribution-grid-snake.svg)

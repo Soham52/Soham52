@@ -14,7 +14,9 @@ A Programming and Coding Enthusiast who also likes Gaming  there again ;)
 
 # My Stats
 
-[![Soham52's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham52&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Soham52's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham52&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham52&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contributions
 

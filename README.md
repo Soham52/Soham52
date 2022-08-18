@@ -10,7 +10,7 @@ A Programming and Coding Enthusiast who also likes Gaming  there again ;)
 
 * 👀 My Pronouns are - **He/Him**
 
-* 🔭 Currently working on anything I have **Time** for 🙃
+* 🔭 Currently working on anything I have **Time** for ¯\\\_(ツ)_/¯
 
 # My Stats
 

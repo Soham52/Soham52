@@ -2,7 +2,7 @@
 
 Well . . .
 
-A Programming and Coding Enthusiast who also likes Gaming  there again ;)
+A Programming and Coding Enthusiast who also likes Gaming ;)
 
 * <img src="https://user-images.githubusercontent.com/73898737/181573138-6fe276d7-a445-4853-bc64-8784fe4c3254.svg" width="17px"> **Feel free** to contact me on Discord - `Soham52#0241`
 

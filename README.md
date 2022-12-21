@@ -8,7 +8,7 @@ A Programming and Coding Enthusiast who also likes Gaming ;)
 
 * ⌨️ I’m Currently **Learning** Rust, Java, C, C++, and HTML/CSS
 
-* 👀 My Pronouns are - **He/Him**
+* 👀 Just a Student at the time
 
 * 🔭 Currently working on anything I have **Time** for ¯\\\_(ツ)_/¯
 

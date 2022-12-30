@@ -14,7 +14,7 @@ A Programming and Coding Enthusiast who also likes Gaming ;)
 
 # My Stats
 
-[![Soham52's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham52&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Soham52's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham52&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham52&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,3 +22,9 @@ A Programming and Coding Enthusiast who also likes Gaming ;)
 
 *it ain't much but it's honest work :)* 
 ![Snake animation](https://github.com/Soham52/Soham52/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Soham52&color=1e1e1e&style=for-the-badge&label=Profile+Visits)
+
+</div>

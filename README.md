@@ -14,14 +14,15 @@ A Programming and Coding Enthusiast who also likes Gaming ;)
 
 # My Stats
 
-[![Soham52's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham52&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham52&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Soham52's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham52&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham52&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Soham52&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&ring=79FE96&fire=79FE96&currStreakLabel=79FE96)](https://git.io/streak-stats)
 
 # Contributions
 
 *it ain't much but it's honest work :)* 
-![Snake animation](https://github.com/Soham52/Soham52/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <div align="center">
 

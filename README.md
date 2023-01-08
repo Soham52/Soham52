@@ -21,8 +21,8 @@ A Programming and Coding Enthusiast who also likes Gaming ;)
 # Contributions
 
 *it ain't much but it's honest work :)* 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/Soham52/Soham52/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/Soham52/Soham52/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <div align="center">
 

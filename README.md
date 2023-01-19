@@ -1,10 +1,10 @@
-# Hello there!!  <img src="./images/Wave_Hand.gif" width="30px">
+# Hello there!!  <img src="Images/Wave_Hand.gif" width="30px">
 
 Well . . .
 
 A Programming and Coding Enthusiast who also likes Gaming ;)
 
-* <img src="./images/Discord_Logo.svg" width="17px"> **Feel free** to contact me on Discord - `Soham52#0241`
+* <img src="Images/Discord_Logo.svg" width="17px"> **Feel free** to contact me on Discord - `Soham52#0241`
 
 * ⌨️ I’m Currently **Learning** Rust, Java, C, C++, and HTML/CSS
 

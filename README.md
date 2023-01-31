@@ -14,10 +14,9 @@ A Programming and Coding Enthusiast who also likes Gaming ;)
 
 # My Stats
 
-![Soham52's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Soham52&theme=dark&show_icons=true&hide_border=true)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Soham52&theme=dark&show_icons=true&hide_border=true" width="500" alt="Soham52's GitHub stats">
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Soham52&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&ring=79FE96&fire=79FE96&currStreakLabel=79FE96)
+<img src="https://streak-stats.demolab.com?user=Soham52&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&ring=79FE96&fire=79FE96&currStreakLabel=79FE96" width="500" alt="GitHub Streak">
 
 # Contributions
 
